@@ -1,0 +1,3 @@
+# scythe.allocate
+
+::: scythe.allocate

@@ -1,0 +1,3 @@
+# scythe.base
+
+::: scythe.base
